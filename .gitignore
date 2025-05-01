@@ -1,0 +1,8 @@
+# Ignore frontend folder
+/frontend/
+
+# Ignore backend subdirectories and files
+/backend/.env
+/backend/chromadb/
+/backend/datasets/
+/backend/venv/
